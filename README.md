@@ -27,7 +27,7 @@ This Python script implements a simple Mastermind game where two players take tu
 
 First, clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/mastermind-game.git
+git clone https://github.com/kunal654/mastermind-game.git
 cd mastermind-game
 ```
 
